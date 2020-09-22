@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	greeting := "Hello from CloudCI.io"
-	fmt.Println(greeting)
+//	fmt.Println(greeting)
 }
